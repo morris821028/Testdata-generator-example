@@ -1,0 +1,10 @@
+main.exe <1.in >1.out
+main.exe <2.in >2.out
+main.exe <3.in >3.out
+main.exe <4.in >4.out
+main.exe <5.in >5.out
+main.exe <6.in >6.out
+main.exe <9.in >9.out
+main.exe <11.in >11.out
+main.exe <13.in >13.out
+main.exe <15.in >15.out
